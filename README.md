@@ -1,5 +1,8 @@
 # MiTranslate
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mitranslate
+
 It is software for translating texts, listening to words and phrases and getting the meaning of words through the translate-shell.
 
 ## Information
